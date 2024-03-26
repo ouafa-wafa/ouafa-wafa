@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ouafa Mahcene</h1>
 <h3 align="center">A passionate web developer from Algeria</h3>
-<img align="right" alt="Coding" width="300" src="https://www.21kschool.com/in/wp-content/uploads/sites/4/2023/04/Girls-coding-myth.png">
 - 🌱 I’m currently learning **React for the front end and Django for the Backend**
 
 - 📫 How to reach me **ouafamahcene@gmail.com**
